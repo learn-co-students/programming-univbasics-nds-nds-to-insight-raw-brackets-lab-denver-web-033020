@@ -17,7 +17,7 @@ def directors_totals(nds)
     column_index += 1 
   end
     row_index += 1 
-  end
+
   p directors_totals
 end
   # Remember, it's always OK to pretty print what you get *in* to make sure
